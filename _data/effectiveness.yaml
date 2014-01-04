@@ -1,0 +1,59 @@
+category: Effectiveness
+
+qualities:
+  - meaningful contributions
+  - ships quality software
+  - focus
+  - communication
+  - timeliness
+  - commits & deploys
+  - operations
+  - ability to resolve alerts & bugs
+
+rubric:
+  1:
+    - does not GSD, does not make impactful contributions
+    - ships bugs and sloppy code
+    - works on too many tasks
+    - poor communication
+    - few commits (0-2/day)
+    - rare deploys (0-1/day)
+    - does not operate infrastructure
+    - does not resolve alerts or JIRAs
+
+  2:
+    - few meaningful contributions
+    - occasionally ships bugs or introduces operational issues
+    - requires frequent direction
+    - frequent surprises/little comm.
+    - inconsistent commits (2-3/day)
+    - inconsistent deploys (1/day)
+    - inconsistently logs in, creates infrastructure, or acts on operational knowledge
+    - inconsistently resolves alerts and JIRAs
+
+  3:
+    - sometimes makes impactful contributions
+    - rarely ships bugs/ops issues
+    - usually focused, sometimes requires extra direction or reminders to complete task
+    - few communication surprises
+    - consistent commits (3-5/day)
+    - consistent deploys (1-2/day)
+    - creates, logs in, and manages infrastructure. sometimes acts on operational information (logs, monitoring metrics)
+    - resolves most alerts and JIRAs
+
+  4:
+    - GSD and is often recognized for large, important contributions
+    - ships high quality, high-perf and readable code
+    - accomplishes tasks quickly
+    - keeps manager well informed
+    - high commits (5+/day)
+    - frequent deploys (3+/day)
+    - frequently manages infrastructure and investigates operational issues
+    - always resolves alerts and JIRAs
+
+  5:
+    - level 4 +=
+    - no surprises, nothing is left dangling
+    - clearly takes leadership when dealing with operational issues and critsits
+    - seen as a major role model/leader in the organization
+    - others desire his/her input or follow his/her lead in technical matters

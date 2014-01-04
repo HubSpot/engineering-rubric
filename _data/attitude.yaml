@@ -1,0 +1,54 @@
+category: Attitude
+
+qualities:
+  - effort
+  - ownership
+  - attention to quality
+  - responsiveness
+  - challenge & learning
+  - helping & kindness
+  - team attitude
+
+rubric:
+  1:
+    - doesn't put in the hours to win
+    - stays clear from owning projects, avoids taking responsibility
+    - does not improve the quality of the projects they work on
+    - does not respond to warnings, alerts, or JIRAs - frustrated or timid when problems arise
+    - does not learn new technology, does not grow their skill set or embrace new challenges
+    - never helps others
+    - not a team player, generally has a negative or self-directed attitude rather than putting the team first
+
+  2:
+    - inconsistent availability and effort
+    - owns few projects
+    - inconsistently addresses quality issues
+    - frequently requires direction to move projects forward
+    - inconsistently, unprofessionally, or slowly responds to issues. inconsistently follows-up
+    - infrequently works with new technologies or grows skills
+    - infrequently provides feedback and advice or has a negative or unprofessional attitude towards constructive feedback
+    - inconsistent attitude, often reacts negatively to changes, but usually comes around
+
+  3:
+    - usually available and working
+    - owns some projects, requires some direction to move them forward
+    - sometimes improves quality, and helps with refactoring
+    - usually responds to issues in a timely fashion and in a neutral and professional manner. sometimes investigates and follows-up
+    - sometimes works with new technologies, but does not proactively grow skill set
+    - usually provides advice and feedback to their team
+    - positive attitude, welcomes change and does the best thing for the team, though sometimes requires direction or coaching to take action
+
+  4:
+    - always available and above average display of effort
+    - proactively takes ownership
+    - proactively improves quality of projects and responds to PR
+    - boldly addresses all alerts and JIRAs, effectively triages problems, and keeps stakeholders informed in a positive manner. proactively investigates warnings and instability
+    - freely works with new technologies and grows skills
+    - regularly provides feedback and advice to others regardless of team or technology
+    - great attitude, takes initiative to solve problems, is an energy amplifier
+
+  5:
+    - <b>level 4 +=</b>
+    - champions quality across multiple projects, leading refactoring efforts and reviewing all pull requests
+    - comes up with new ideas, sees them implemented, encourages adoption and contributions.
+    - masters new technology, advocates for new approaches, and embraces all challenges

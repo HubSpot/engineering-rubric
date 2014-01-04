@@ -1,0 +1,38 @@
+category: Leadership
+
+qualities:
+  - team development
+  - direction & alignment
+  - speed
+
+rubric:
+  1:
+    - never participates in one-on-ones (as a lead) or mentoring (as a principal)
+    - never provides direction for their team (as a lead) or never provides technology direction for their team (as a principal)
+    - never participates in or contributes to interviews or recruiting events
+
+  2:
+    - as a lead, is inconsistent with one-on-ones
+    - as a principal, is inconsistent with mentoring
+    - infrequently provides direction to others
+    - infrequently participates in interviews or recruiting events
+
+  3:
+    - as a lead, consistently holds one-on-ones with reports
+    - as a principal, consistently contributes to mentoring through code reviews, best-practice examples, or new tools
+    - as a lead, usually provides project direction for team
+    - as a principal, usually provides technology direction for the department
+    - usually participates in interviews
+    - sometimes participates in recruiting events
+
+  4:
+    - as a lead, improves the one-on-one processes
+    - as a principal, improves the mentoring processes
+    - improves the interview and recruiting processes
+    - improves the on-boarding and training processes
+
+  5:
+    - <b>level 4 +=</b>
+    - as a lead, advocates and implements new cross-team direction in the department
+    - as a principal, advocates and implements new technology direction for the department
+    - organizes recruiting events and materials

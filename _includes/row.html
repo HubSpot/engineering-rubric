@@ -1,0 +1,19 @@
+<tr>
+  <td>
+    <h2>{{ include.data.category}}</h2>
+    <ul>
+      {% for quality in include.data.qualities %}
+      <li>{{ quality }}</li>
+      {% endfor %}
+    </ul>
+  </td>
+  {% for column in include.data.rubric %}
+  <td>
+    <ul>
+      {% for item in column[1] %}
+        <li>{{item}}</li>
+      {% endfor %}
+    </ul>
+  </td>
+  {% endfor %}
+</tr>
