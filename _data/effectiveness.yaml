@@ -52,7 +52,7 @@ rubric:
     - always resolves alerts and JIRAs
 
   5:
-    - level 4 +=
+    - <b>level 4 +=</b>
     - no surprises, nothing is left dangling
     - clearly takes leadership when dealing with operational issues and critsits
     - seen as a major role model/leader in the organization
